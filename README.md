@@ -5,7 +5,7 @@
 
 ## Computer Vision
 ### Classification
-- Xception(2017)
+- Xception: Deep Learning with Depthwise Separable Convolutions(2017) [arxiv](https://arxiv.org/abs/1610.02357)
 
 ### Segmentation
 
@@ -13,4 +13,4 @@
 ### Object Detection
 
 ### Transformer(Attention)
-- Stand-Alone Self-Attention in Vision Models(2019)
+- Stand-Alone Self-Attention in Vision Models(2019) [arxiv](https://arxiv.org/abs/1906.05909)
