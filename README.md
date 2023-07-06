@@ -2,7 +2,7 @@
 논문을 읽고 간단하게 요약하여 올리는 repository!
 
 ## Computer-Vision
-### Classification
+### CNN
 - Xception: Deep Learning with Depthwise Separable Convolutions(2017) [ [arxiv](https://arxiv.org/abs/1610.02357) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/ComputerVision/Xception.md) ]
 
 ### Segmentation
