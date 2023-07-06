@@ -17,7 +17,7 @@
 - Stand-Alone Self-Attention in Vision Models(2019) [ [arxiv](https://arxiv.org/abs/1906.05909) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/ComputerVision/Stand-Alone%20Self-Attention%20in%20Vision%20Models.md) ]
 
 ### GAN
-- 
+
 
 ## Language(NLP)
 - Bert:Pre-training of Deep Bidirectional Transformers for Language Understanding(2019) [ [arxiv](https://arxiv.org/abs/1810.04805) / [review]()]
