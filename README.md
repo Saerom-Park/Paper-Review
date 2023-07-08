@@ -20,8 +20,8 @@
 ### GAN
 
 
-## Vision-Language(VL)
-
+### Vision-Language(VL)
+- CLIP: Learning Transferable Visual Models From Natural Language Supervision [ [arxiv](https://arxiv.org/abs/2103.00020) / [github](https://github.com/openai/CLIP) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/ComputerVision/23.07.08%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision(2021).md) ]
 
 
 ## Language(NLP)
