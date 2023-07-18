@@ -18,10 +18,10 @@
 - Stand-Alone Self-Attention in Vision Models(2019) [ [arxiv](https://arxiv.org/abs/1906.05909) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/ComputerVision/Stand-Alone%20Self-Attention%20in%20Vision%20Models.md) ]
 
 ### GAN
-
+- Pix2Pix: Image-to-Image Translation with Conditional Adversarial Networks(2017)
 
 ### Vision-Language(VL)
-- CLIP: Learning Transferable Visual Models From Natural Language Supervision [ [arxiv](https://arxiv.org/abs/2103.00020) / [github](https://github.com/openai/CLIP) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/ComputerVision/23.07.08%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision(2021).md) ]
+- CLIP: Learning Transferable Visual Models From Natural Language Supervision(2021) [ [arxiv](https://arxiv.org/abs/2103.00020) / [github](https://github.com/openai/CLIP) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/ComputerVision/23.07.08%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision(2021).md) ]
 
 
 ## Language(NLP)
