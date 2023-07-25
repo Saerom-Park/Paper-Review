@@ -27,4 +27,4 @@
 
 ## Language(NLP)
 - Bert:Pre-training of Deep Bidirectional Transformers for Language Understanding(2019) [ [arxiv](https://arxiv.org/abs/1810.04805) ]
-- XLNet: Generalized Autoregressive Pretraining for Language Understanding(2019) [ [arxiv]() ]
+- XLNet: Generalized Autoregressive Pretraining for Language Understanding(2019) [ [arxiv](https://arxiv.org/abs/1906.08237) / review ]
