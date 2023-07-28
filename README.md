@@ -21,7 +21,7 @@
 - Pix2Pix: Image-to-Image Translation with Conditional Adversarial Networks(2017) [ [arxiv](https://arxiv.org/abs/1611.07004) / [github](https://github.com/phillipi/pix2pix) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/Reviews/23.07.17%20Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks.md) ]
 
 ## Vision-Language(VL)
-- IFSeg: Image-free Semantic Segmentation via Vision-Language Model(2023) [ [arxiv]() / [github]() / review ]
+- IFSeg: Image-free Semantic Segmentation via Vision-Language Model(2023) [ [arxiv](https://arxiv.org/abs/2303.14396) / [github](https://github.com/alinlab/ifseg) / review ]
 - CLIP: Learning Transferable Visual Models From Natural Language Supervision(2021) [ [arxiv](https://arxiv.org/abs/2103.00020) / [github](https://github.com/openai/CLIP) / [review](https://github.com/Saerom-Park/Paper-Review/blob/master/Reviews/23.07.08%20Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.md) ]
 
 
