@@ -1,5 +1,5 @@
 # Paper-Review
-논문을 읽고 간단하게 요약하여 올리는 repository!
+논문을 읽고 간단하게 요약하여 올리는 repository로, 각 논문에 대한 summary는 `./Reviews`에서 볼 수 있고, Full version은 개인 tech blog와 github issue에서 접할 수 있습니다!
 
 ## Computer-Vision
 ### CNN
