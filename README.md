@@ -42,7 +42,7 @@
 ## Vision-Language(VL)
 - IFSeg: Image-free Semantic Segmentation via Vision-Language Model(2023)
 
-  [ [arxiv](https://arxiv.org/abs/2303.14396) / [github](https://github.com/alinlab/ifseg) / summary ]
+  [ [arxiv](https://arxiv.org/abs/2303.14396) / [github](https://github.com/alinlab/ifseg) / [summary](https://github.com/Saerom-Park/Paper-Review/blob/master/Reviews/23.07.28%20IFSeg%3A%20Image-Free%20Semantic%20Segmentation%20via%20Vision-Language%20Model.md) ]
   
 - CLIP: Learning Transferable Visual Models From Natural Language Supervision(2021)
 
