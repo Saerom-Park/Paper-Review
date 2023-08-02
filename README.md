@@ -2,7 +2,7 @@
 논문을 읽고 간단하게 요약하여 올리는 repository로, 각 논문에 대한 summary는 `./Reviews`에서 볼 수 있고, Full version은 개인 tech blog와 github issue에서 접할 수 있습니다!
 
 ## Computer-Vision
-### CNN
+### Backbone
 - Xception: Deep Learning with Depthwise Separable Convolutions(2017)
 
   [ [arxiv](https://arxiv.org/abs/1610.02357) / [summary](https://github.com/Saerom-Park/Paper-Review/blob/master/Reviews/22.03.28%20Xception%3A%20Deep%20Learning%20with%20Depthwise%20Separable%20Convolutions.md) ]
